@@ -1,6 +1,6 @@
 # Heart-disease
 It is a classification data in which we predict if someone will have heart disease or not depending upon their
-1)age
+1) age
 2)sex
 3)Constrictive pericarditis(CP) - A form of diastolic heart failure that arises because an inelastic pericardium inhibits cardiac filling
 4)trestbps (Resting blood pressure)
