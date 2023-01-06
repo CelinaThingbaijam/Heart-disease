@@ -14,8 +14,8 @@ It is a classification data in which we predict if someone will have heart disea
 13) ca : Calcium present or not (Higher the score higher will be the risks)
 14) thal: People with thalassemia can get too much iron in there bodies which may lead to heart disease
 15) target : heart disease no = 0,heart disease yes = 1
-After analysis the data
-we do eda( Exploratory data analysis)
+ After analysis the data
+ we do eda( Exploratory data analysis)
 -on checking we get to find that there is no null value and all the data is either float and integer
 -then start apply the classification algorithms ( on checking we find that LogisticRegression has the best result (81.9%)
 - we try to improve the data by preprocessing using StandardScaler in pipelines.
