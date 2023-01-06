@@ -1,18 +1,18 @@
 # Heart-disease
 It is a classification data in which we predict if someone will have heart disease or not depending upon their
 1) age
-2)sex
-3)Constrictive pericarditis(CP) - A form of diastolic heart failure that arises because an inelastic pericardium inhibits cardiac filling
-4)trestbps (Resting blood pressure)
+2) sex
+3) Constrictive pericarditis(CP) - A form of diastolic heart failure that arises because an inelastic pericardium inhibits cardiac filling
+4) trestbps (Resting blood pressure)
 5) chol (Cholesterol level)
 7) fbs(fasting blood sugar) -if >120 1 = True,0 = False
 8) restecg(Resting electrocardiographic measurement) -0= normal,1 = having ST-T wave abnormality,2 = hypertrophy
-9)thalach - Person maximum heart rate
+9) thalach - Person maximum heart rate
 10) Exang( Exercise Induced angina) -- 0=no,1 = yes
 11) oldpeak : ST depression induced by exercise relative to rest
-12)Slope : ST/heart rate slope
-13)ca : Calcium present or not (Higher the score higher will be the risks)
-14)thal: People with thalassemia can get too much iron in there bodies which may lead to heart disease
+12) Slope : ST/heart rate slope
+13) ca : Calcium present or not (Higher the score higher will be the risks)
+14) thal: People with thalassemia can get too much iron in there bodies which may lead to heart disease
 15) target : heart disease no = 0,heart disease yes = 1
 After analysis the data
 we do eda( Exploratory data analysis)
