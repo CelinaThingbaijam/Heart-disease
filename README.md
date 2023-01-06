@@ -14,8 +14,8 @@ It is a classification data in which we predict if someone will have heart disea
 13) ca : Calcium present or not (Higher the score higher will be the risks)
 14) thal: People with thalassemia can get too much iron in there bodies which may lead to heart disease
 15) target : heart disease no = 0,heart disease yes = 1
-    After analysis the data
-    we do eda( Exploratory data analysis)
+     After analysis the data
+     we do eda( Exploratory data analysis)
 -   on checking we get to find that there is no null value and all the data is either float and integer
 -then start apply the classification algorithms ( on checking we find that LogisticRegression has the best result (81.9%)
 - we try to improve the data by preprocessing using StandardScaler in pipelines.
@@ -24,4 +24,4 @@ As a result we got to see some significant improvement in KNN (65 to 81.4) and S
 for KNN we got (84.1 ,neighbors = 11) and for SVC we got (82.22 ,kernel ="rbf").
 Lastly ,we want want to check with all the ensembles techniques to see if there is any better accuracy then KNN.
 On checking we didn't find any accuracy better than KNN
-So KNN was the final Algorithms which give us an accuracy of 86.3
+So KNN was the final Algorithms which give us an accuracy of 86.3.
